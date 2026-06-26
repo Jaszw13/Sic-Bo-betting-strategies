@@ -1,4 +1,4 @@
-# Sic-Bo Betting Strategies
+# Monte Carlo strategy evaluation
 A Python-based simulation tool to analyze and compare classic Sic Bo betting strategies (Martingale, fixed-bet), quantify risk-reward profiles, and deliver data-driven recommendations for achieving target capital while balancing risk.
 
 ## 📌 Project Inspiration
